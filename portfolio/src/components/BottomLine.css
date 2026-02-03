@@ -1,0 +1,55 @@
+/* Default line style (covers both sizes) */
+.side-line {
+  height: 8px;
+  width: 8px;
+  margin: 0 10px;
+  background-color: #FF651C;
+  transform: rotate(45deg);
+}
+
+/* Default middle line */
+.middle-line {
+  height: 4px;
+  background-color: #FF651C;
+  border-radius: 4px;
+  position: relative;
+}
+
+/* Default inner circle */
+.inner-circle {
+  height: 10px;
+  width: 10px;
+  background-color: #212121;
+  transform: rotate(45deg);
+  border: 1px solid #FF651C;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  animation: left-right-moving 6s infinite linear;
+}
+
+/* ------------------------------------- */
+/* SIZE VARIANTS */
+/* ------------------------------------- */
+
+/* Large (default for Featured Projects) */
+.middle-line.large { width: 180px; }
+.inner-circle.large { animation: left-right-moving-large 6s infinite linear; }
+
+/* Small (for Skills heading) */
+.middle-line.small { width: 120px; }
+.inner-circle.small { animation: left-right-moving-small 6s infinite linear; }
+
+/* ------------------------------------- */
+/* ANIMATIONS */
+/* ------------------------------------- */
+@keyframes left-right-moving-large {
+  0%, 100% { left: 0%; }
+  50% { left: 97%; }
+}
+
+@keyframes left-right-moving-small {
+  0%, 100% { left: 0%; }
+  50% { left: 90%; }
+}

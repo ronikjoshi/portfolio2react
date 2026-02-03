@@ -1,0 +1,13 @@
+/* Increase slick dots size */
+.slick-dots li button:before {
+  font-size: 14px !important;   /* default is 6px */
+  color: white !important;
+  opacity: 0.6;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #FF651C !important;    /* your primary color */
+  opacity: 1;
+  font-size: 18px !important;
+}
+
