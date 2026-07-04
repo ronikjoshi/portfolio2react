@@ -30,7 +30,6 @@ const About = () => {
     <motion.div
       ref={ref}
       className="min-h-[100vh] pt-20 flex flex-col-reverse lg:flex-row items-center justify-between pl-[4%] pr-[4%] gap-12"
-
       // ⭐ Animate entire section together
       initial={{ opacity: 0, scale: 0.95 }}
       animate={animateSection ? { opacity: 1, scale: 1 } : {}}
@@ -38,13 +37,9 @@ const About = () => {
     >
       {/* LEFT CONTENT */}
       <div className="max-w-xl">
-        <h2 className="text-neutral text-xl font-medium">
-          Hello, I'm
-        </h2>
+        <h2 className="text-neutral text-xl font-medium">Hello, I'm</h2>
 
-        <h1 className="text-4xl font-semibold mb-0">
-          Ronik Joshi
-        </h1>
+        <h1 className="text-4xl font-semibold mb-0">Ronik Joshi</h1>
 
         <div className="my-4">
           <TypeAnimation
@@ -64,14 +59,20 @@ const About = () => {
         </div>
 
         <p className="text-neutral max-w-xl mb-6 font-medium">
-          I’m a MERN Stack Developer with strong front-end expertise, supported by hands-on experience at Tata Consultancy Services (TCS). There, I built responsive, user-friendly interfaces and worked with agile teams to deliver scalable, high-quality web solutions focused on modern UI/UX and performance optimization.
-While front-end is my core strength, I also work confidently with Node.js, Express, and MongoDB, allowing me to build clean and efficient end-to-end features. I’m continually learning and passionate about creating smooth, impactful digital experiences.
+          Hi, I'm Ronik Joshi, a MERN Stack Developer with a strong foundation
+          in modern web development and a passion for building responsive,
+          user-friendly, and scalable web applications. After starting my career
+          at Tata Consultancy Services (TCS), I returned to software development
+          with a renewed focus on mastering the MERN stack and creating
+          real-world projects that solve practical problems. I enjoy developing
+          clean, intuitive interfaces with React and Tailwind CSS while also
+          working confidently with Node.js, Express.js, and MongoDB to build
+          efficient full-stack applications. I continuously strive to improve my
+          skills, explore new technologies, and create high-quality digital
+          experiences that are both functional and visually engaging.
         </p>
 
-        <a
-          href=""
-          target="blank"
-        >
+        <a href="" target="blank">
           <button className="flex items-center gap-3 px-6 py-3 bg-primary text-white text-lg font-semibold rounded-lg hover:bg-orange-600 transition">
             <span>My Resume</span>
             <FaDownload />

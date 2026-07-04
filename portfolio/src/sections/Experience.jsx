@@ -25,13 +25,13 @@ const Experience = () => {
 
   const experience = {
     company: "Tata Consultancy Services (TCS)",
-    role: "MERN Stack Developer / Front-End Developer",
-    duration: "MM YYYY – MM YYYY",
+    role: "Assistant System Engineer (ASE)",
+    duration: "Aug 2020 – Sep 2021",
     points: [
-      "Developed responsive and modern interfaces using React.",
-      "Optimized performance and ensured cross-browser compatibility.",
-      "Worked with Node.js, Express, and MongoDB for backend and APIs.",
-      "Collaborated in an agile team delivering scalable web solutions.",
+      "Worked on a client project for Cisco, analyzing software defects and vulnerabilities for Cisco ASR 9000 Series Routers using SORA tool and CDETS.",
+      "Investigated software issues, identified their impact, and collaborated with cross-functional teams to support timely resolution.",
+      "Created and maintained defect reports, workarounds, and technical updates to support issue tracking and resolution.",
+      "Managed defect records in SORA and CDETS, ensuring accurate information for engineering teams and end users.",
     ],
   };
 
