@@ -1,7 +1,8 @@
 const Items = [
   {
     id: 1,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369315/My_Favorite_Recipe_Page_fgtgdf.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369315/My_Favorite_Recipe_Page_fgtgdf.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369315/My_Favorite_Recipe_Page_fgtgdf.png",
     ],
@@ -14,9 +15,7 @@ const Items = [
       "Lists",
       "Horizontal Lines",
     ],
-    technologies: [
-      "HTML",
-    ],
+    technologies: ["HTML"],
     title: "My Favorite Recipe Page",
     description:
       "This project is a simple HTML based recipe page that displays the steps to make a delicious chocolate cake. It includes well-structured sections such as ingredients, preparation steps, and helpful baking tips. The page uses basic HTML elements like headings, lists, text formatting tags, and separators to present the recipe clearly and neatly. It serves as a beginner-friendly example of organizing content using semantic HTML.",
@@ -26,7 +25,8 @@ const Items = [
   },
   {
     id: 2,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369314/My_Favorite_Movie_Page_1_kcwt8m.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369314/My_Favorite_Movie_Page_1_kcwt8m.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369314/My_Favorite_Movie_Page_1_kcwt8m.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369316/My_Favorite_Movie_Page_2_tyxmey.png",
@@ -42,9 +42,7 @@ const Items = [
       "Cast Section",
       "Clean HTML Structure",
     ],
-    technologies: [
-      "HTML",
-    ],
+    technologies: ["HTML"],
     title: "My Favorite Movie Page",
     description:
       "This project is an HTML-based movie webpage that showcases my favorite film. It includes a movie title, description, images, links, and multimedia elements such as video, audio, and an embedded YouTube trailer. The page also uses anchor tags for navigation and features a cast section with a list of main actors. This project helps practice essential HTML concepts like images, videos, audio, iframes, and internal/external linking.",
@@ -54,7 +52,8 @@ const Items = [
   },
   {
     id: 3,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369353/Restaurant_Webpage_1_e7qhk5.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369353/Restaurant_Webpage_1_e7qhk5.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369353/Restaurant_Webpage_1_e7qhk5.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369356/Restaurant_Webpage_2_x37vid.png",
@@ -70,9 +69,7 @@ const Items = [
       "Footer Section",
       "Well-organized Content",
     ],
-    technologies: [
-      "HTML",
-    ],
+    technologies: ["HTML"],
     title: "Restaurant Webpage",
     description:
       "This project is a fully structured restaurant webpage created using semantic HTML. It showcases a fictional restaurant and includes sections for navigation, an about page, menu items, opening hours, and contact information. The project focuses on using semantic tags such as <nav>, <header>, <main>, <section>, <article>, <footer>, and proper HTML elements like tables, lists, and spans. It demonstrates strong understanding of HTML structure, layout organization, and content grouping.",
@@ -82,7 +79,8 @@ const Items = [
   },
   {
     id: 4,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369340/Event_Registration_Form_wy06fv.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369340/Event_Registration_Form_wy06fv.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369340/Event_Registration_Form_wy06fv.png",
     ],
@@ -96,9 +94,7 @@ const Items = [
       "Submit Button",
       "Clean Layout and Readable Structure",
     ],
-    technologies: [
-      "HTML",
-    ],
+    technologies: ["HTML"],
     title: "Event Registration Form",
     description:
       "This project is a fully functional event registration form built using HTML. It collects essential participant details such as name, email, gender, interests, experience level, and preferred sessions. The form includes a variety of HTML input types like text fields, email, password, radio buttons, checkboxes, dropdowns, datalists, textareas, and a submit button. It demonstrates strong foundational skills in creating structured, user-friendly forms using core HTML elements.",
@@ -108,7 +104,8 @@ const Items = [
   },
   {
     id: 5,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797467/Personal_Profile_Card_ij7fao.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797467/Personal_Profile_Card_ij7fao.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797467/Personal_Profile_Card_ij7fao.png",
     ],
@@ -120,10 +117,7 @@ const Items = [
       "Call-To-Action Button",
       "Responsive & Centered Design",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Personal Profile Card",
     description:
       "This project is a simple and modern Profile Card created using HTML and CSS. It showcases a user’s name, profession, a short description, skills, and a call-to-action button. The layout demonstrates clean styling, spacing, scrollable text, and basic UI component design. It’s a good beginner project for learning how to create reusable profile components in websites or portfolios.",
@@ -133,7 +127,8 @@ const Items = [
   },
   {
     id: 6,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369320/Coffee_Shop_Menu_1_nhx32l.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369320/Coffee_Shop_Menu_1_nhx32l.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369320/Coffee_Shop_Menu_1_nhx32l.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369314/Coffee_Shop_Menu_2_g9medj.png",
@@ -149,10 +144,7 @@ const Items = [
       "Responsive & Well-Structured Layout",
       "Image Optimization",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Coffee Shop Menu",
     description:
       "This project is a beautifully designed Coffee Menu webpage for a fictional café. It uses HTML and CSS to showcase signature drinks, classic favorites, a hero banner, and a footer section with location and hours. The design includes modern styling techniques such as gradients, custom typography, shadows, and responsive layout elements. The page demonstrates structured content, elegant typography, and a polished UI suitable for restaurant or café websites.",
@@ -162,7 +154,8 @@ const Items = [
   },
   {
     id: 7,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796862/Interactive_Profile_Card_1_gimgjs.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796862/Interactive_Profile_Card_1_gimgjs.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796862/Interactive_Profile_Card_1_gimgjs.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796936/Interactive_Profile_Card_2_q9vanb.png",
@@ -176,10 +169,7 @@ const Items = [
       "Smooth Transitions",
       "Clean UI + Modern Design Principles",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Interactive Profile Card",
     description:
       "This project is an interactive profile card built using HTML and CSS. It displays a user’s profile picture, name, title, and social stats, along with a “Connect” button. The design includes modern UI techniques such as hover effects, transitions, transforms, pseudo-elements, and box-model styling. The card smoothly animates when hovered and features a clean, minimal, professional layout suitable for portfolios, user profiles, or social media UIs.",
@@ -189,7 +179,8 @@ const Items = [
   },
   {
     id: 8,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797638/Responsive_Card_Layout_2_ngcxug.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797638/Responsive_Card_Layout_2_ngcxug.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797547/Responsive_Card_Layout_1_clbb1v.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797638/Responsive_Card_Layout_2_ngcxug.png",
@@ -201,10 +192,7 @@ const Items = [
       "Image Optimization",
       "Fully Expandable Component",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Responsive Card Layout",
     description:
       "A simple, modern portfolio card built with HTML and CSS using a mobile-first approach. The layout stacks vertically on small screens and automatically shifts into a side-by-side design on larger screens using Flexbox and media queries. This component is ideal for showcasing developer profiles, team members, or portfolio sections.",
@@ -214,7 +202,8 @@ const Items = [
   },
   {
     id: 9,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369366/Fashion_Store_1_gov01m.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369366/Fashion_Store_1_gov01m.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369366/Fashion_Store_1_gov01m.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369347/Fashion_Store_2_yuva7t.png",
@@ -228,10 +217,7 @@ const Items = [
       "Simple, Clean Header and Footer",
       "Organized, Beginner-Friendly CSS",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Fashion Store – Static E-Commerce Webpage",
     description:
       "This project is a static, fully structured fashion store webpage built using HTML and CSS. It displays product categories, upcoming festival sales, and store information in a clean, organized layout. The project demonstrates UI structuring, table-based layouts, image placement, styling, and content formatting—ideal for beginners learning front-end development essentials.",
@@ -241,7 +227,8 @@ const Items = [
   },
   {
     id: 10,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369300/Chef_s_Hotel_1_blqkjx.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369300/Chef_s_Hotel_1_blqkjx.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369300/Chef_s_Hotel_1_blqkjx.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369304/Chef_s_Hotel_2_bi851j.png",
@@ -254,10 +241,7 @@ const Items = [
       "Footer Section",
       "Call-to-Action",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Chef’s Hotel – Static Luxury Hotel Webpage",
     description:
       "This project is a beautifully designed static hotel webpage created using HTML and CSS. It showcases a luxury hotel with an elegant landing section, detailed room options, pricing tables, and a call-to-action for booking. The layout highlights strong UI structure, table formatting, typography, and visual design—ideal for beginners showcasing their front-end development skills.",
@@ -267,7 +251,8 @@ const Items = [
   },
   {
     id: 11,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369375/Foodie_1_sx2ekn.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369375/Foodie_1_sx2ekn.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369375/Foodie_1_sx2ekn.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369380/Foodie_2_emdlwc.png",
@@ -283,10 +268,7 @@ const Items = [
       "Food Price Table",
       "Simple Footer",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Foodie – Online Food Delivery Webpage",
     description:
       "This project is a static food-delivery themed webpage built with HTML and CSS. It highlights popular restaurants in Delhi, showcases trending dishes, displays food rankings, and includes informational sections about Delhi’s food culture. The layout combines images, tables, and structured content to create a visually appealing and beginner-friendly front-end design.",
@@ -296,7 +278,8 @@ const Items = [
   },
   {
     id: 12,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369337/course_syllabus_page_1_rexirn.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369337/course_syllabus_page_1_rexirn.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369337/course_syllabus_page_1_rexirn.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369339/course_syllabus_page_2_y8qrn3.png",
@@ -310,10 +293,7 @@ const Items = [
       "Side-by-Side Layout",
       "Footer Section",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Course Syllabus Webpage",
     description:
       "This project is a structured and educational course syllabus webpage built using HTML and CSS. It includes a professional header with navigation, an introductory section, a visual HTML preview image, a complete course overview, and a detailed weekly schedule. The layout demonstrates clean structuring, table formatting, use of semantic tags, and basic responsive alignment—perfect for beginners practicing front-end development.",
@@ -323,7 +303,8 @@ const Items = [
   },
   {
     id: 13,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369379/Hospital_Webpage_2_mh8q53.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369379/Hospital_Webpage_2_mh8q53.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369377/Hospital_Webpage_1_pfqvnz.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369379/Hospital_Webpage_2_mh8q53.png",
@@ -339,10 +320,7 @@ const Items = [
       "Daily Cured Patients Highlight",
       "User-Friendly Layout & Styling",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Hospital Webpage",
     description:
       "This project is a static hospital management webpage built using HTML and CSS. It presents an overview of an Hospital, including its services, achievements, approved doctors, improvement ideas, and daily patient recovery statistics. The design uses clean layouts, structured tables, smooth navigation, and accessible content formatting, making it a great front-end practice project.",
@@ -352,7 +330,8 @@ const Items = [
   },
   {
     id: 14,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369305/Beans_and_Brews_Cafe_2_jvyrtc.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369305/Beans_and_Brews_Cafe_2_jvyrtc.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369302/Beans_and_Brews_Cafe_1_z50bra.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369305/Beans_and_Brews_Cafe_2_jvyrtc.png",
@@ -366,10 +345,7 @@ const Items = [
       "Contact Section",
       "Footer Section",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "Beans and Brews Cafe",
     description:
       "This project is a simple, clean, and well-structured cafe website built using HTML and CSS. It presents a modern homepage, a menu section with images, an about section, and contact details—all wrapped in a clean layout suitable for small businesses or portfolio demonstration. The project showcases basic web design structure, navigation design, responsive section layouts, and content organization.",
@@ -379,7 +355,8 @@ const Items = [
   },
   {
     id: 15,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369370/Get_Fit_2_jjqv74.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369370/Get_Fit_2_jjqv74.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369368/Get_Fit_1_uf8lfa.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369370/Get_Fit_2_jjqv74.png",
@@ -396,10 +373,7 @@ const Items = [
       "Organized Layout",
       "Footer",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-    ],
+    technologies: ["HTML", "CSS"],
     title: "My Fitness Tips – Health & Workout Webpage",
     description:
       "This project is a structured and beginner-friendly fitness webpage built using HTML and CSS. It includes a welcoming hero section, an introduction to the platform, detailed workout routines, fitness equipment information, and helpful fitness tips for beginners. The design is clear, easy to navigate, and ideal for showcasing front-end skills related to layout, typography, table formatting, structured content, and responsive-friendly sections.",
@@ -409,7 +383,8 @@ const Items = [
   },
   {
     id: 16,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797013/Interactive_Profile_Card_JS_hi0zld.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797013/Interactive_Profile_Card_JS_hi0zld.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797013/Interactive_Profile_Card_JS_hi0zld.png",
     ],
@@ -420,11 +395,7 @@ const Items = [
       "Smooth Visual Effects",
       "Neat, Minimal, and Responsive Layout",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-      "JS",
-    ],
+    technologies: ["HTML", "CSS", "JS"],
     title: "Interactive Profile Card",
     description:
       "This project is a modern, visually appealing profile card built using HTML, CSS, and JavaScript. It displays a user avatar, name, bio, and a theme label while dynamically updating the card’s content and appearance using JavaScript. The card includes a fun “theme switch” style effect, transforming the card into a vibrant, playful design mode. This project is great for beginners learning DOM manipulation, styling, and interactive UI components.",
@@ -434,7 +405,8 @@ const Items = [
   },
   {
     id: 17,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369300/Interactive_Quiz_Form_1_nct8tk.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369300/Interactive_Quiz_Form_1_nct8tk.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369300/Interactive_Quiz_Form_1_nct8tk.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369301/Interactive_Quiz_Form_2_htqopv.png",
@@ -450,11 +422,7 @@ const Items = [
       "Color-Coded Result Display",
       "Responsive Layout",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-      "JS",
-    ],
+    technologies: ["HTML", "CSS", "JS"],
     title: "Interactive JavaScript Quiz Form",
     description:
       "This project is an interactive quiz application built using HTML, CSS, and JavaScript. It presents a 3-question multiple-choice quiz on JavaScript basics and includes dynamic hint toggles, form validation, score calculation, and responsive visual feedback. The clean UI, structured layout, and interactive behavior make it an excellent beginner-friendly project for learning DOM manipulation, event handling, and form logic.",
@@ -464,7 +432,8 @@ const Items = [
   },
   {
     id: 18,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796554/Dynamic_Bookmark_Manager_1_v7nu5z.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796554/Dynamic_Bookmark_Manager_1_v7nu5z.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796554/Dynamic_Bookmark_Manager_1_v7nu5z.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796625/Dynamic_Bookmark_Manager_2_mazm19.png",
@@ -480,11 +449,7 @@ const Items = [
       "Real-Time DOM Manipulation",
       "Fully Client-Side Application",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-      "JS",
-    ],
+    technologies: ["HTML", "CSS", "JS"],
     title: "Dynamic Bookmark Manager",
     description:
       "This project is a fully interactive Bookmark Manager built with HTML, CSS, and JavaScript. It allows users to quickly add, display, and delete bookmarks in real time without reloading the page. With a clean UI and smooth interactions, this project demonstrates DOM manipulation, event handling, form validation, and event delegation",
@@ -494,7 +459,8 @@ const Items = [
   },
   {
     id: 19,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797191/Persistent_Product_Wishlist_2_g5joew.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797191/Persistent_Product_Wishlist_2_g5joew.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797116/Persistent_Product_Wishlist_1_ft3d8k.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797191/Persistent_Product_Wishlist_2_g5joew.png",
@@ -510,11 +476,7 @@ const Items = [
       "Automatic Wishlist Rendering on Page Load",
       "Real-World JavaScript Concepts",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-      "JS",
-    ],
+    technologies: ["HTML", "CSS", "JS"],
     title: "Persistent Product Wishlist",
     description:
       "This project is a fully interactive Product Wishlist Manager built using HTML, CSS, and JavaScript with LocalStorage. It allows users to add products (name, price, and image), display them in a clean card layout, and delete them when needed. The key feature of this project is data persistence, meaning all wishlist items remain saved even after the page is refreshed—thanks to LocalStorage. This makes it a perfect project for practicing DOM manipulation, data storage, event delegation, and dynamic UI rendering.",
@@ -524,7 +486,8 @@ const Items = [
   },
   {
     id: 20,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797722/Smart_Task_Tracker_1_d4tsoh.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797722/Smart_Task_Tracker_1_d4tsoh.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797722/Smart_Task_Tracker_1_d4tsoh.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765797847/Smart_Task_Tracker_2_pb79dj.png",
@@ -541,11 +504,7 @@ const Items = [
       "Helpful Feedback Messages",
       "Structured & Scalable Codebase",
     ],
-    technologies: [
-      "HTML",
-      "CSS",
-      "JS",
-    ],
+    technologies: ["HTML", "CSS", "JS"],
     title: "Smart Task Tracker",
     description:
       "The Smart Task Tracker is a feature-rich task-management web app built using HTML, CSS, and JavaScript with LocalStorage persistence. It allows users to create tasks, assign categories, mark tasks as completed, delete them, and automatically save everything in the browser—even after refreshing the page. This project demonstrates core concepts of DOM manipulation, event delegation, and real-world application behavior through persistent data storage and interactive UI updates.",
@@ -555,7 +514,8 @@ const Items = [
   },
   {
     id: 21,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369289/Interactive_Forms_with_Dynamic_Tabs_1_et429a.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369289/Interactive_Forms_with_Dynamic_Tabs_1_et429a.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369289/Interactive_Forms_with_Dynamic_Tabs_1_et429a.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369289/Interactive_Forms_with_Dynamic_Tabs_3_lmm6jl.png",
@@ -585,11 +545,13 @@ const Items = [
       "This project is a fully interactive, multi-step Job Application Form built using React. It guides users through a structured 3-step form process—Personal Information, Experience, and Review & Submit—using a tabbed UI with validation, navigation controls, and a polished user experience. Each step validates its fields before allowing the user to move forward, ensuring clean data collection and improved usability. The project showcases advanced concepts including dynamic tab navigation, controlled components, multi-stage validation, form state management, conditional rendering, and submission success screens—all wrapped in a clean, responsive UI.",
     category: "react",
     liveLink: "",
-    codeLink: "https://github.com/ronikjoshi/Interactive_Job_Application_Form_with_Dynamic_Tabs_React",
+    codeLink:
+      "https://github.com/ronikjoshi/Interactive_Job_Application_Form_with_Dynamic_Tabs_React",
   },
   {
     id: 22,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369349/First_portfolio_1_ojqcrl.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369349/First_portfolio_1_ojqcrl.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369349/First_portfolio_1_ojqcrl.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369354/First_portfolio_2_eyua0m.png",
@@ -626,7 +588,8 @@ const Items = [
   },
   {
     id: 23,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796233/2048_Game_1_d3ghc5.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796233/2048_Game_1_d3ghc5.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796233/2048_Game_1_d3ghc5.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765796403/2048_Game_2_o4rqzx.png",
@@ -658,7 +621,8 @@ const Items = [
   },
   {
     id: 24,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765798011/Tic_tac_toe_1_iek0z2.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765798011/Tic_tac_toe_1_iek0z2.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765798011/Tic_tac_toe_1_iek0z2.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765798105/Tic_tac_toe_2_t9r8kg.png",
@@ -687,7 +651,8 @@ const Items = [
   },
   {
     id: 25,
-    mainImage: "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369318/original_portfolio_2_epqwuc.png",
+    mainImage:
+      "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369318/original_portfolio_2_epqwuc.png",
     img: [
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369318/original_portfolio_1_qv6xnn.png",
       "https://res.cloudinary.com/dgh3azwdo/image/upload/v1765369318/original_portfolio_2_epqwuc.png",
@@ -735,14 +700,7 @@ const Items = [
   {
     id: 26,
     mainImage: "",
-    img: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-    ],
+    img: ["", "", "", "", "", ""],
     features: [
       "Full CRUD Functionality",
       "Image Upload Support",
@@ -777,119 +735,7 @@ const Items = [
   {
     id: 27,
     mainImage: "",
-    img: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-    ],
-    features: [
-      "User Authentication & Authorization",
-      "AI Image Generation",
-      "Credit-Based System",
-      "User Dashboard & Gallery",
-      "Modern UI + Smooth Animations",
-      "Performance",
-      "Security",
-    ],
-    technologies: [
-      "React (UI components + routing)",
-      "Context API (global state management)",
-      "TailwindCSS (styling)",
-      "Framer Motion (animations)",
-      "Lottie Files (interactive visuals)",
-      "Axios (API communication)",
-      "Vite (bundler + dev server)",
-      "Node.js (server runtime)",
-      "Express (API routes + middleware)",
-      "MongoDB + Mongoose (database + schemas)",
-      "JWT (authentication)",
-      "bcryptjs (password hashing)",
-      "ClipDrop API (AI image generation)",
-      "CORS & dotenv (server config)",
-      "REST API Architecture",
-    ],
-    title: "AI_MagicLens (In progress)",
-    description:
-      "Imagify is a full-stack AI Image Generation and Management platform built with the MERN stack. It allows users to generate AI-powered images, manage galleries, buy credits, download results, and securely store user data. The project includes a complete authentication system, credit-based usage limits, a responsive modern UI, and integration with the ClipDrop AI API for high-quality images.",
-    category: "mern",
-    liveLink: "",
-    codeLink: "https://github.com/ronikjoshi/AI_MagicLens",
-  },
-  {
-    id: 28,
-    mainImage: "",
-    img: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-    ],
-    features: [
-      "Secure User Authentication & Authorization",
-      "Student Dashboard & Learning Panel",
-      "Instructor Course Management System",
-      "Full Course Creation & Curriculum Builder",
-      "Cloud Media Upload (Videos, Images, Docs)",
-      "Integrated Online Payments (Razorpay)",
-      "Video-Based Learning with Progress Tracking",
-      "Course Ratings & Reviews System",
-      "Wishlist & Shopping Cart Flow",
-      "Enrollment & Access Control for Premium Courses",
-      "User Profile & Account Settings Management",
-      "Insights & Analytics for Instructors",
-      "Dynamic Home, Catalog, and Course Detail Pages",
-      "Admin-like Controls for Categories & Course Structure",
-      "Modern Responsive UI with Animations (Framer Motion)",
-      "Fast Performance with Lazy Loading & Optimized Media",
-      "Robust Backend APIs (Node + Express + MongoDB)",
-    ],
-    technologies: [
-      "React (UI components, routing)",
-      "React Router (navigation)",
-      "Redux Toolkit (state management)",
-      "TailwindCSS (utility-first styling)",
-      "Framer Motion (animations)",
-      "React Hook Form (form handling)",
-      "React Dropzone (file upload)",
-      "React Hot Toast (notifications)",
-      "Chart.js (analytics charts)",
-      "Video React (video player)",
-      "Lazy Load Image Component (image optimization)",
-      "Vite (development server + bundler)",
-      "Node.js (runtime)",
-      "Express.js (server framework)",
-      "MongoDB + Mongoose (database & schema modeling)",
-      "JWT (authentication)",
-      "Cloudinary SDK (media uploads)",
-      "Razorpay SDK (payments)",
-      "Nodemailer (email service)",
-      "Bcrypt.js (password hashing)",
-      "CORS (security)",
-      "Body-Parser (API parsing)",
-    ],
-    title: "TutorX (In progress)",
-    description:
-      "TutorX is a full-fledged MERN stack online learning platform where students can explore, purchase, and learn from structured courses, while instructors can create and manage educational content. The platform integrates powerful features like secure authentication, cloud media handling, real payment gateway integration, analytics dashboards, and a modern, responsive UI optimized for learning. It uses Cloudinary for storing course media, Razorpay for secure payments, and MongoDB for managing all user & course data. The architecture follows industry standards with modular routing, controllers, middleware, and reusable services—making it scalable and production-ready.",
-    category: "mern",
-    liveLink: "",
-    codeLink: "https://github.com/ronikjoshi/TutorX",
-  },
-  {
-    id: 29,
-    mainImage: "",
-    img: [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-    ],
+    img: ["", "", "", "", "", ""],
     features: [
       "User Accounts",
       "Shopping Cart",

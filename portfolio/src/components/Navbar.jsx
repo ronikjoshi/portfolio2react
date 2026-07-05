@@ -11,7 +11,7 @@ import { MdWork } from "react-icons/md";
 /* ---------------- Resume Button ---------------- */
 const ResumeButton = () => (
   <a
-    href=""
+    href="https://drive.google.com/file/d/1AtJ74fy1qwbWEiKmCBBWj3KXFEKIFnQ3/view?usp=drive_link"
     target="_blank"
     rel="noopener noreferrer"
     className="inline-flex items-center gap-2 px-5 py-2.5 text-lg font-semibold
@@ -63,12 +63,9 @@ export default function Navbar() {
       `}
     >
       <div className="flex items-center justify-between px-4 md:px-20 py-3">
-
         {/* Logo */}
         <Link to="/">
-          <h1 className="text-2xl font-lobster text-orange-500">
-            Ronik Joshi
-          </h1>
+          <h1 className="text-2xl font-lobster text-orange-500">Ronik Joshi</h1>
         </Link>
 
         {/* Desktop Menu */}

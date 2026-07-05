@@ -72,7 +72,10 @@ const About = () => {
           experiences that are both functional and visually engaging.
         </p>
 
-        <a href="" target="blank">
+        <a
+          href="https://drive.google.com/file/d/1AtJ74fy1qwbWEiKmCBBWj3KXFEKIFnQ3/view?usp=drive_link"
+          target="blank"
+        >
           <button className="flex items-center gap-3 px-6 py-3 bg-primary text-white text-lg font-semibold rounded-lg hover:bg-orange-600 transition">
             <span>My Resume</span>
             <FaDownload />
